@@ -4,7 +4,8 @@
   "description": "Typed library to get informations about npm packages.",
   "author": {
     "name": "Peter Ullrich",
-    "email": "peda76@gmail.com"
+    "email": "dotup.software@gmail.com",
+    "url": "https://github.com/dotupNET/"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",
