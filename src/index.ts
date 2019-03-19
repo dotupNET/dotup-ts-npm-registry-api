@@ -1,2 +1,11 @@
-// This is the library entry point
-export * from './AwesomeLibrary';
+export * from './NpmApi';
+export * from './NpmAuthor';
+export * from './NpmBug';
+export * from './NpmDist';
+export * from './NpmInfo';
+export * from './NpmMaintainer';
+export * from './NpmRepository';
+export * from './NpmVersion';
+export * from './_npmOperationalInternal';
+export * from './_npmUser';
+export * from './types';

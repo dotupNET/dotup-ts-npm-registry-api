@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "dotup-ts-logger": "~0.0.0"
+  },
+  "dependencies": {
+    "dotup-ts-types": "^0.0.0"
+  }
+}
