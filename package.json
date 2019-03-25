@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "name": "npm-registry-api",
+  "name": "dotup-ts-npm-registry-api",
   "description": "Typed library to get informations about npm packages.",
   "author": {
     "name": "Peter Ullrich",
@@ -39,7 +39,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotupNET/npm-registry-api.git"
+    "url": "git+https://github.com/dotupNET/dotup-ts-npm-registry-api.git"
   },
   "keywords": [
     "typescript",
@@ -48,9 +48,9 @@
     "api"
   ],
   "bugs": {
-    "url": "https://github.com/dotupNET/npm-registry-api/issues"
+    "url": "https://github.com/dotupNET/dotup-ts-npm-registry-api/issues"
   },
-  "homepage": "https://github.com/dotupNET/npm-registry-api#readme",
+  "homepage": "https://github.com/dotupNET/dotup-ts-npm-registry-api#readme",
   "dependencies": {
     "typed-rest-client": "^1.1.2"
   }
